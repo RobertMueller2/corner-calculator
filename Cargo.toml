@@ -1,10 +1,11 @@
 [package]
 name = "corner-calculator"
 authors = ["Rene D. Obermueller <cmdrrdo@gmail.com>"]
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 license = "MIT"
 description = "Command line utility and lib to calculate new x+y coordinates for a window for a certain direction (=numpad key) based on existing based on given screen and window dimensions."
+repository = "https://github.com/RobertMueller2/corner-calculator.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
