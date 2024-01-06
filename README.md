@@ -18,7 +18,7 @@ Corner Calculator is a command-line utility written in Rust, designed to calcula
 Clone the repository and build the project using Cargo:
 
 ```sh
-git clone https://github.com/[your-username]/corner-calculator.git
+git clone https://github.com/RobertMueller2/corner-calculator.git
 cd corner-calculator
 cargo build --release
 ```
