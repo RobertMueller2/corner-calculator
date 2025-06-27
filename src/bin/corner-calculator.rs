@@ -26,7 +26,7 @@ fn main() {
     let newx = numbers[0].get_new_x_coord(numbers[1], numbers[3]);
     let newy = numbers[0].get_new_y_coord(numbers[2], numbers[4]);
 
-    println!("{} px {} px", newx, newy);
+    println!("{newx} px {newy} px");
 }
 
 fn usage(executable: String) {
